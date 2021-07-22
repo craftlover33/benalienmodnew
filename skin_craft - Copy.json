@@ -21,9 +21,9 @@
       "mopub_mrec":"",
       "applovin_banner":"",
       "applovin_inter":"",
-      "ironkey":"",
-      "inter_iron":"",
-      "banner_iron":""
+      "ironkey":"104749579",
+      "inter_iron":"DefaultInterstitial",
+      "banner_iron":"DefaultBanner"
      
     }
   ],
